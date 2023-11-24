@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+button{
+    background-color: whitesmoke;
+    border-radius: 50%;
+    color: blueviolet;
+    text-decoration: solid;
+}
+#result{
+    border-radius: 100px;
+}
